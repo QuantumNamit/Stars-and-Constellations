@@ -1,6 +1,6 @@
-# This was a CPSC assignment at uofc , all the assignment details were created by professor Jonathan Hudson 
+This was a CPSC assignment at uofc , all the assignment details were created by professor Jonathan Hudson 
 
-# But the code was designed by me and it's my orginal work 
+But the code was designed by me and it's my orginal work 
 
 Just Look at this output , it's just WOW 
 
